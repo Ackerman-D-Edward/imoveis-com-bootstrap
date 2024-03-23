@@ -1,0 +1,30 @@
+//Bacground
+$bg-cor-primaria:#fff;
+$bg-cor-secundaria:#ece8ea;
+$bg-cor-escura:#050505;
+
+//Text
+$cor-primaria:#050505;
+$cor-secundaria:#7a7a7a;
+
+$cor-branca:#fff;
+
+.bg-primary-color {
+    background-color: $bg-cor-primaria;
+}
+
+.bg-secondary-color {
+    background-color: $bg-cor-secundaria;
+}
+
+.bg-dark-color {
+    background-color: $bg-cor-escura;
+}
+
+.primary-color {
+    color: $cor-primaria;
+}
+
+.secondary-color {
+    color: $cor-secundaria;
+}
